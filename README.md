@@ -1,6 +1,6 @@
 # BoWG
 
-## The code will be made public before publication.
+## The code will be made public before publication. In the meantime, you can find an introduction to this repository on this page.
 
 BoWG is an open-source C++ library for loop closure detection and place recognition, serving as the official implementation of our paper "Bag-of-Word-Groups (BoWG): A Robust and Efficient Loop Closure Detection Method Under Perceptual Aliasing". For a practical demonstration of integrating BoWG into SLAM systems, we provide another repository [BoWG_VINS_Loop](https://github.com/EdgarFx/BoWG_VINS_Loop), which showcases the implementation of BoWG in [VINS-Fusion](https://github.com/HKUST-Aerial-Robotics/VINS-Fusion).
 
